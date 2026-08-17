@@ -1,0 +1,13 @@
+image_id,n_objects,mean_area,density_class,quality_flag,narrative,llm_raw_output
+test_000,8,47.0,sparse,uncertain (LLM not run),,"Ollama call failed: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download"
+test_001,14,49.7,sparse,uncertain (LLM not run),,"Ollama call failed: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download"
+test_002,25,56.7,normal,uncertain (LLM not run),,"Ollama call failed: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download"
+test_003,19,51.7,normal,uncertain (LLM not run),,"Ollama call failed: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download"
+test_004,42,84.0,dense,uncertain (LLM not run),,"Ollama call failed: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download"
+test_005,15,108.3,normal,uncertain (LLM not run),,"Ollama call failed: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download"
+test_006,8,50.0,sparse,uncertain (LLM not run),,"Ollama call failed: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download"
+test_007,23,50.5,normal,uncertain (LLM not run),,"Ollama call failed: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download"
+test_008,23,60.2,normal,uncertain (LLM not run),,"Ollama call failed: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download"
+test_009,21,45.0,normal,uncertain (LLM not run),,"Ollama call failed: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download"
+test_010,35,93.8,dense,uncertain (LLM not run),,"Ollama call failed: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download"
+test_011,19,48.3,normal,uncertain (LLM not run),,"Ollama call failed: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download"
